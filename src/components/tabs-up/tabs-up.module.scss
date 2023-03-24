@@ -1,0 +1,19 @@
+.container{
+    width: 360px;
+    height: 150px;
+    border: 2px solid black;
+}
+
+.tabs-container{
+    display: flex;
+}
+
+.tab{
+width: 120px;
+height: 75px;
+border: 2px solid black;
+}
+
+.blue{
+    background-color: aqua;
+}

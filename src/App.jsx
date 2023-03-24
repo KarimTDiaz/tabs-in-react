@@ -1,5 +1,12 @@
+import TabsUp from './components/tabs-up/TabsUp';
+
 const App = () => {
-	return <h1>Núcleo de la aplicación</h1>;
+	return (
+		<>
+			<h1>Tabs</h1>
+			<TabsUp />
+		</>
+	);
 };
 
 export default App;
